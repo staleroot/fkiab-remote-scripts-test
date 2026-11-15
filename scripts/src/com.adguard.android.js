@@ -3,7 +3,7 @@
 // author: Fexture69
 // description: Removes premium restrictions in AdGuard, unlocking all premium features without a paid license.
 // added-in: 1.6.1
-// version: 2
+// version: 3
 
-console.log("hello this is remote script for adguard")
+console.log("adguard version 33333 loaded")
 
