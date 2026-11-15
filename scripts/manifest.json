@@ -1,6 +1,6 @@
 {
-	"global": {
-		"test": 7,
+  "global": {
+    "test": 7,
     "no_ads": 1
 	},
 	"com.adguard.android": 1,
