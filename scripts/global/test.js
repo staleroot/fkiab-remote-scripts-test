@@ -1,7 +1,7 @@
 // name: Test Script
-// version: 7
+// version: 8
 // summary: just a test script
 // description: A test that does nothing really. Remote scripts are here babyyyyy!!!!
-// modified-at: 16/11/2026 10:00
+// modified-at: 14/11/2026 10:00
 
-console.log("test.js version 7 loaded")
+console.log("test.js version 8 loaded")

@@ -1,7 +1,7 @@
 {
   "global": {
-    "test": 7,
-    "no_ads": 2
+    "test": 8,
+    "cool": 1
 	},
 	"com.adguard.android": 1,
   "com.android.calculator2": 1
